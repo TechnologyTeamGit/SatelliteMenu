@@ -1,4 +1,3 @@
 # SatelliteMenu
 
-
-this project is a text project
+this project just is a text project
