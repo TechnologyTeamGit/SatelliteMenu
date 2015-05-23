@@ -1,3 +1,2 @@
 # SatelliteMenu
-
-该项目只是用于git的学习
+this project is just test
